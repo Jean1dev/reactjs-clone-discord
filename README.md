@@ -1,5 +1,5 @@
-## Working in progress
-<img src="images/image.png"><br>
+## Como ficou
+<img src="images/opa.png"><br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
